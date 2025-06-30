@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+@font-face {
+  font-family: 'Lexend';
+  src: url('https://fonts.gstatic.com/s/lexend/v10/4Ua8X1c5a2k3b7g6z9s5f3d4.woff2')
+}
+
+* {
+  font-family: 'Lexend', sans-serif;
+}
+
+body {
+  margin: 0;
+}
